@@ -6,3 +6,5 @@
 2. Every chapter has its own notebook, which includes short summaries and code implementation provided in the book
 
 ## Requires Python 3.10.1
+### Install the required libraries from requirements.txt
+1. I have used "pipreqsnb" to generate the requirements.txt file
