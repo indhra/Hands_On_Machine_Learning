@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30041182-59f3-405e-a474-4e8699e138a1)
+
 # Hands_On_Machine_Learning
  From Aurelien Geron
 
