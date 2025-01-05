@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/30041182-59f3-405e-a474-4e8699e138a1)
 # Hands_On_Machine_Learning
  From Aurelien Geron
 
@@ -9,4 +8,3 @@
 ## Requires Python 3.10.1
 ### Install the required libraries from requirements.txt
 1. I have used "**pipreqsnb**" to generate the requirements.txt file
-2. 
