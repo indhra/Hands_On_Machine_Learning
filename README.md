@@ -8,3 +8,4 @@
 ## Requires Python 3.10.1
 ### Install the required libraries from requirements.txt
 1. I have used "**pipreqsnb**" to generate the requirements.txt file
+   1. In terminal , run `pipreqsnb .`
