@@ -1,6 +1,10 @@
 # folders
 /my_fashion_mnist/*
-./my_fashion_mnist/.ipynb_checkpoints/*
+
+# keras/tensorflow
+.keras
+.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
