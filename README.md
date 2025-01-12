@@ -9,3 +9,12 @@
 ### Install the required libraries from requirements.txt
 1. I have used "**pipreqsnb**" to generate the requirements.txt file
    1. In terminal , run `pipreqsnb .`
+
+
+# Important Resources
+```sh
+
+```
+[Awesome Tensorflow projects](https://github.com/jtoy/awesome-tensorflow?tab=readme-ov-file)
+
+
