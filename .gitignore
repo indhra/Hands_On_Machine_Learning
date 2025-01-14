@@ -1,9 +1,11 @@
 # folders
 /my_fashion_mnist/*
+images/
+my_keras_model/
 
 # keras/tensorflow
-.keras
-.h5
+*.keras
+*.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

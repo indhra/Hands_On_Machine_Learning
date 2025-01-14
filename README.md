@@ -13,7 +13,7 @@
 
 # Important Resources
 ```sh
-
+requirements.txt
 ```
 [Awesome Tensorflow projects](https://github.com/jtoy/awesome-tensorflow?tab=readme-ov-file)
 
